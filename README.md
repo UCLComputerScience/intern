@@ -3,7 +3,7 @@
 
 ## About the GitHub pages
 
-All files are in the **gh_pages** branch.
+All files are in the **main** branch.
 
 The site uses a modified version of the [jekyll minimal theme](https://github.com/pages-themes/minimal).
 
