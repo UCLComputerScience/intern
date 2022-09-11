@@ -1,25 +1,89 @@
-## UCL Computer Science Postgraduate Teaching Assistants (PGTAs) for 2022/23
+## Internship teaching opportunities
 
-### Scope
-Process and guidance for Computer Science (CS) or eligible IEP modules, in any term of the coming academic year, that
-need Postgraduate Teaching Assistants (PGTA).
+UCL CS is offering internships to gain skills and experience by supporting the teaching of a range of computer science
+modules.
 
-Module leaders (ML) please see instructions [here](https://uclcomputerscience.github.io/pgta/ml.html).
+Contents:
 
-PGTA can be Research Students (intructions [here](https://uclcomputerscience.github.io/pgta/phd.html)) or Research Fellows (instructions [here](https://uclcomputerscience.github.io/pgta/ra.html)).
+1. [Process](#process)
+2. [Opportunities](#opportunities)
+3. [Who can apply?](#who-can-apply)
+4. [Support](#support)
+5. [Hours](#hours)
+6. [Pay](#pay)
+7. [Contacts](#contacts)
 
-### Key dates
+### Process
 
-|   Date   | Deadline                                                                                      |
-|:--------:|:----------------------------------------------------------------------------------------------| 
-| 01/07/22 | Module leader request deadline (all terms)                                                    |
-| 04/07/22 | PGTA applications open (all terms)                                                            |
-| 15/07/22 | PGTA applications close                                                                       |
-| 12/08/22 | All paperwork received by HR for Term 1 PGTA contracts to be in place for the start of term 1 |
-| 26/09/22 | All term 1 contracts in place for candidates that met the paperwork deadline.                 |
-| 11/11/22 | Changes to agreed TA hours/contract submitted to HR                                           |
-| 11/11/22 | All paperwork received by HR for Term 2 PGTA contracts to be in place for the start of term 2 |
-| 09/01/23 | All term 2 contracts in place for candidates that met the paperwork deadline.                 |
-| 12/01/23 | Changes to agreed TA hours/contract submitted                                           |
-| 17/02/23 | Changes to agreed TA hours/contract submitted                                           |
-| 28/04/23 | Changes to agreed TA hours/contract submitted                                           |
+1. [Find a vacancy](https://docs.google.com/spreadsheets/d/1i-dtPKUHxlW93iTH4jn-ZN5wU8cUdoKnFMJ-PunvSy8)
+2. Submit [an application form](https://docs.google.com/forms/d/1Wm05p85g3aypXVgHkWBCqRsfHMGNuxgqVGDhcY67trQ) for each
+   vacancy you wish to apply for.
+3. Wait to be contacted by the hiring module leader
+4. Discuss the application with the module leader.
+5. The module leader will confirm if you are hired and the hours; or if you are not hired they will briefly give reasons
+   why not.
+6. If you are hired then **you** must:
+    1. Create an account at [www.unitemps.com](www.unitemps.com)
+    2. Accept the assignment (link sent by email)
+    3. Complete a right to work (RTW) check with the Unitemps team before you can start working. You cannot undertake
+       any work until the RTW has been checked.
+    4. Complete a Payroll form from Unitemps with bank details and tax information
+7. Unitemps will provide you with information on how to complete timesheets to record your work. Timesheets will be
+   authorised by the module leader.
+
+### Opportunities
+
+All current internship vacancies
+are [listed here](https://docs.google.com/spreadsheets/d/1i-dtPKUHxlW93iTH4jn-ZN5wU8cUdoKnFMJ-PunvSy8). The list is
+continually updated as new opportunities are posted or existing opportunities have been filled.
+
+Typical roles are likely to include:
+
+- providing support to students in programming labs
+- providing drop-in style coding support
+- mentoring or guiding small groups of students as they carry out projects
+
+You must not participate in assessment related activities. Module leaders are aware of this and will not ask you to
+carry out any assessment related activities.
+
+If there are aspects of a role that concern you, or if any issues arise during your placement, please discuss these with
+the module leader. If you are unable to contact the module leader, please contact **TODO: add generic PGTA email
+account**
+
+### Who can apply?
+
+You must be a current UCL student. The scheme is open to second and third year undergraduates, and those on MSc
+programmes.
+
+You need to be eligible to work in the UK during the period of the internship. If you are on a visa, your visa must
+cover the full duration of the internship. UCL is unable to issue a visa for this scheme.
+
+### Support
+
+The module leader will provide support and guidance you during the internship.
+
+All UCL internships should follow the guidelines given in
+the [UCL internship policy](https://www.ucl.ac.uk/human-resources/internships-work-experience-and-volunteering-policy#definitions)
+here.
+
+## Hours
+
+The hours required for each role are shown in the internship vacancy list.
+
+Internships need to be taken outside of the timetabled course requirements and students will need to comply with
+any [relevant visa regulations](https://www.ucl.ac.uk/students/immigration-and-visas/working-uk/working-during-your-studies)
+.
+
+## Pay
+
+Payment will be made through Unitemps at UCL spine point 5. This is currently £12.05 per hour plus £2.25 holiday pay.
+
+### Contacts
+
+| Contact                                                     |                Email                 | Queries relating to...                                           |
+|:------------------------------------------------------------|:------------------------------------:|:-----------------------------------------------------------------|
+| Unitemps                                                    | [www.unitemps.com](www.unitemps.com) | Contracts. Timesheets. Right to work check.                      |
+| Hiring module leader (your line manager for the internship) |                varies                | Module info, access to Moodle, role, hours, support and guidance |
+| Sarah Sanders, Lecturer (teaching), UCL CS                  |      <sarah.sanders@ucl.ac.uk>       | Contact me if the module leader or Unitemps were unable to help. |
+
+

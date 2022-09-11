@@ -10,11 +10,3 @@ docs:
 - title: Home
   url: ./index.html
 
-- title: Information for Module Leads (ML)
-  url: ./intern-ml.html
-
-- title: Information for Students (RA)
-  url: ./intern.html
-
-- title: Contact
-  url: ./contact.html
