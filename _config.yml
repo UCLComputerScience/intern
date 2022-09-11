@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 show_downloads: false
 title: "UCL Computer Science Teaching Internships 2022-23"
-description:
+description: UCL CS Teaching interns information
 baseurl: /intern
 # integration_spreadsheet_key: 2PACX-1vScU_A8ENnUmNIL1V9_549KcqNP0eKh75XeI2-LCLjJtMf6J7FpsT-7xZCdGCdRMPDl60rv1cB13pIg
 # github_user: nicholsons
