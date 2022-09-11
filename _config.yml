@@ -5,4 +5,6 @@ show_downloads: false
 title: UCL Computer Science Teaching Internships
 description: Process and guidance for CS teaching internships 2022-23.
 baseurl: /intern
-
+# integration_spreadsheet_key: 2PACX-1vScU_A8ENnUmNIL1V9_549KcqNP0eKh75XeI2-LCLjJtMf6J7FpsT-7xZCdGCdRMPDl60rv1cB13pIg
+# github_user: nicholsons
+# github_repo: UCLComputerScience/intern

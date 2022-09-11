@@ -3,19 +3,14 @@
 UCL CS is offering internships to gain skills and experience by supporting the teaching of a range of computer science
 modules.
 
-Contents:
+The scheme is open to current UCL students who are second or third year undergraduates or on a masters programme.
 
-1. [Process](#process)
-2. [Opportunities](#opportunities)
-3. [Who can apply?](#who-can-apply)
-4. [Support](#support)
-5. [Hours](#hours)
-6. [Pay](#pay)
-7. [Contacts](#contacts)
-
+You need to be eligible to work in the UK during the period of the internship. If you are on a visa, your visa must
+cover the full duration of the internship. UCL is unable to issue a visa for this scheme.
 ### Process
 
-1. [Find a vacancy](https://docs.google.com/spreadsheets/d/1i-dtPKUHxlW93iTH4jn-ZN5wU8cUdoKnFMJ-PunvSy8)
+1. [Find a vacancy](https://docs.google.com/spreadsheets/d/1i-dtPKUHxlW93iTH4jn-ZN5wU8cUdoKnFMJ-PunvSy8). The list is
+continually updated as new opportunities are posted or existing opportunities have been filled.
 2. Submit [an application form](https://docs.google.com/forms/d/1Wm05p85g3aypXVgHkWBCqRsfHMGNuxgqVGDhcY67trQ) for each
    vacancy you wish to apply for.
 3. Wait to be contacted by the hiring module leader
@@ -31,12 +26,7 @@ Contents:
 7. Unitemps will provide you with information on how to complete timesheets to record your work. Timesheets will be
    authorised by the module leader.
 
-### Opportunities
-
-All current internship vacancies
-are [listed here](https://docs.google.com/spreadsheets/d/1i-dtPKUHxlW93iTH4jn-ZN5wU8cUdoKnFMJ-PunvSy8). The list is
-continually updated as new opportunities are posted or existing opportunities have been filled.
-
+### Roles
 Typical roles are likely to include:
 
 - providing support to students in programming labs
@@ -46,27 +36,15 @@ Typical roles are likely to include:
 You must not participate in assessment related activities. Module leaders are aware of this and will not ask you to
 carry out any assessment related activities.
 
-If there are aspects of a role that concern you, or if any issues arise during your placement, please discuss these with
-the module leader. If you are unable to contact the module leader, please contact **TODO: add generic PGTA email
-account**
-
-### Who can apply?
-
-You must be a current UCL student. The scheme is open to second and third year undergraduates, and those on MSc
-programmes.
-
-You need to be eligible to work in the UK during the period of the internship. If you are on a visa, your visa must
-cover the full duration of the internship. UCL is unable to issue a visa for this scheme.
-
 ### Support
 
-The module leader will provide support and guidance you during the internship.
+The module leader will provide support and guidance to you during the internship.
 
 All UCL internships should follow the guidelines given in
 the [UCL internship policy](https://www.ucl.ac.uk/human-resources/internships-work-experience-and-volunteering-policy#definitions)
 here.
 
-## Hours
+### Hours
 
 The hours required for each role are shown in the internship vacancy list.
 
@@ -74,16 +52,16 @@ Internships need to be taken outside of the timetabled course requirements and s
 any [relevant visa regulations](https://www.ucl.ac.uk/students/immigration-and-visas/working-uk/working-during-your-studies)
 .
 
-## Pay
+### Pay
 
 Payment will be made through Unitemps at UCL spine point 5. This is currently £12.05 per hour plus £2.25 holiday pay.
 
 ### Contacts
 
-| Contact                                                     |                Email                 | Queries relating to...                                           |
-|:------------------------------------------------------------|:------------------------------------:|:-----------------------------------------------------------------|
-| Unitemps                                                    | [www.unitemps.com](www.unitemps.com) | Contracts. Timesheets. Right to work check.                      |
-| Hiring module leader (your line manager for the internship) |                varies                | Module info, access to Moodle, role, hours, support and guidance |
-| Sarah Sanders, Lecturer (teaching), UCL CS                  |      <sarah.sanders@ucl.ac.uk>       | Contact me if the module leader or Unitemps were unable to help. |
+| Contact                                                                                               | Queries relating to...                                           |
+|:------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|
+| [Unitemps](www.unitemps.com)                                                                          | Contracts. Timesheets. Right to work check.                      |
+| Hiring module leader (your line manager for the internship)                                           | Module info, access to Moodle, role, hours, support and guidance |
+| Sarah Sanders, Lecturer (teaching), UCL CS, [sarah.sanders@ucl.ac.uk](mailto:sarah.sanders@ucl.ac.uk) | Contact me if the module leader or Unitemps were unable to help. |
 
 
