@@ -1,4 +1,4 @@
-## Internship teaching opportunities
+## UCL Computer Science Internship teaching opportunities 2022-23
 
 UCL CS is offering internships to gain skills and experience by supporting the teaching of a range of computer science
 modules.
