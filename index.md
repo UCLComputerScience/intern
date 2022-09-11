@@ -10,7 +10,7 @@ cover the full duration of the internship. UCL is unable to issue a visa for thi
 ### Process
 
 1. [Find a vacancy](https://docs.google.com/spreadsheets/d/1i-dtPKUHxlW93iTH4jn-ZN5wU8cUdoKnFMJ-PunvSy8). The list is
-continually updated as new opportunities are posted or existing opportunities have been filled.
+continuously updated; new roles are added and filled roles are removed.
 2. Submit [an application form](https://docs.google.com/forms/d/1Wm05p85g3aypXVgHkWBCqRsfHMGNuxgqVGDhcY67trQ) for each
    vacancy you wish to apply for.
 3. Wait to be contacted by the hiring module leader
