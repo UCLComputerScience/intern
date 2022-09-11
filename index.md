@@ -1,8 +1,3 @@
-## UCL Computer Science Internship teaching opportunities 2022-23
-
-UCL CS is offering internships to gain skills and experience by supporting the teaching of a range of computer science
-modules.
-
 The scheme is open to current UCL students who are second or third year undergraduates or on a masters programme.
 
 You need to be eligible to work in the UK during the period of the internship. If you are on a visa, your visa must
