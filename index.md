@@ -15,7 +15,7 @@ continuously updated; new roles are added and filled roles are removed.
 5. The module leader will confirm if you are hired and the hours; or if you are not hired they will briefly give reasons
    why not.
 6. If you are hired then **you** must:
-    1. Create an account at [www.unitemps.com](www.unitemps.com)
+    1. Create an account at [www.unitemps.com](http://www.unitemps.com)
     2. Accept the assignment (link sent by email)
     3. Complete a right to work (RTW) check with the Unitemps team before you can start working. You cannot undertake
        any work until the RTW has been checked.
