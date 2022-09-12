@@ -1,6 +1,6 @@
 UCL CS is offering internships to gain skills and experience by supporting the teaching of a range of computer science modules.
 
-The scheme is open to current UCL students who are second or third year undergraduates or on a masters programme.
+The scheme is open to current UCL students who are second, third or fourth year undergraduates.
 
 You need to be eligible to work in the UK during the period of the internship. If you are on a visa, your visa must
 cover the full duration of the internship. UCL is unable to issue a visa for this scheme.
