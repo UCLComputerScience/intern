@@ -45,12 +45,11 @@ here.
 The hours required for each role are shown in the internship vacancy list.
 
 Internships need to be taken outside of the timetabled course requirements and students will need to comply with
-any [relevant visa regulations](https://www.ucl.ac.uk/students/immigration-and-visas/working-uk/working-during-your-studies)
-.
+any [relevant visa regulations](https://www.ucl.ac.uk/students/immigration-and-visas/working-uk/working-during-your-studies).
 
 ### Pay
 
-Payment will be made through Unitemps at UCL spine point 5. This is currently £12.05 per hour plus £2.25 holiday pay.
+Payment will be made through Unitemps at UCL spine point 5. This is currently £12.05 per hour.
 
 ### Contacts
 
