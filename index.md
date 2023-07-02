@@ -6,10 +6,8 @@ You need to be eligible to work in the UK during the period of the internship. I
 cover the full duration of the internship. UCL is unable to issue a visa for this scheme.
 ### Process
 
-1. [Find a vacancy](https://docs.google.com/spreadsheets/d/1i-dtPKUHxlW93iTH4jn-ZN5wU8cUdoKnFMJ-PunvSy8). The list is
-continuously updated; new roles are added and filled roles are removed.
-2. Submit [an application form](https://forms.gle/qTWCLtKUMCpWQbL87) for each
-   vacancy you wish to apply for.
+1. [Find a vacancy]() {TBC for 2023-24}.
+2. Submit [an application form]() {TBC for 2023-24} for each vacancy you wish to apply for.
 3. Wait to be contacted by the hiring module leader who will discuss your application with you.
 4. The module leader will confirm if you are hired and the hours; or if you are not hired they will briefly give reasons
    why not.

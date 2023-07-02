@@ -2,7 +2,7 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 show_downloads: false
-title: "UCL Computer Science Teaching Internships 2022-23"
+title: "UCL Computer Science Teaching Internships 2023-24"
 description: UCL CS teaching intern programme information
 baseurl: /intern
 # integration_spreadsheet_key: 2PACX-1vScU_A8ENnUmNIL1V9_549KcqNP0eKh75XeI2-LCLjJtMf6J7FpsT-7xZCdGCdRMPDl60rv1cB13pIg
